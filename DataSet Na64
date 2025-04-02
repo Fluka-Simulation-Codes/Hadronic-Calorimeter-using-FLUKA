@@ -1,1 +1,7 @@
+Construcción del Dataset:
 
+El dataset completo del experimento NA64 se genera consolidando la información de estos dos subsistemas de detección:
+
+    Columnas del ECAL: Se almacenan las energías depositadas en cada una de las 16 capas del preshower y las 134 capas del shower.
+
+    Columnas del HCAL: Se incluyen tres valores correspondientes a la energía total depositada en HCAL0, HCAL1 y HCAL2.
