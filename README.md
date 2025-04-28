@@ -4,7 +4,7 @@ Este documento se publica con el propósito de compartir los códigos desarrolla
 
 # Descripción General
 
-** Los códigos presentados aquí cumplen dos funciones principales: **
+ Los códigos presentados aquí cumplen dos funciones principales: 
 
     Generación del Dataset de Energía Deposita por el HCAL
     FLUKA genera los resultados de las simulaciones en archivos con extensión .fort, los cuales contienen la información detallada de la energía depositada en las diferentes capas del calorímetro.
@@ -24,3 +24,6 @@ Una vez generado el dataset, este puede ser utilizado para realizar distintos ti
 # Importancia del Proceso
 
 La correcta extracción y organización de la energía depositada en las capas del HCAL es un paso fundamental para poder interpretar y validar las simulaciones realizadas en FLUKA, permitiendo así un análisis detallado del desempeño del detector en diferentes condiciones.
+
+# Autora 
+
