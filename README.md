@@ -26,3 +26,5 @@ Una vez generado el dataset, este puede ser utilizado para realizar distintos ti
 La correcta extracción y organización de la energía depositada en las capas del HCAL es un paso fundamental para poder interpretar y validar las simulaciones realizadas en FLUKA, permitiendo así un análisis detallado del desempeño del detector en diferentes condiciones.
 
 Este trabajo es parte de mi tesis de Pregrado de Licenciatura en Física de la Universidad Andres Bello (Santiago)
+
+Pascale.-
